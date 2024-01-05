@@ -1,0 +1,23 @@
+/* font styling for heading, main heading */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,100;1,700&family=Roboto:wght@100;400;700&display=swap');
+
+.main-heading-styling{
+  font-family: Poppins;
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: #1BCFC9;
+  background: linear-gradient(to right, #1BCFC9 0%, #25CF4D 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+
+}
+
+.text-styling{
+  font-family: Poppins;
+  color: white;
+
+}

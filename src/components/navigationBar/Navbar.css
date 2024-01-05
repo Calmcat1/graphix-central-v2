@@ -1,0 +1,30 @@
+/* custom navigation bar styling */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,100;1,700&family=Roboto:wght@100;400;700&display=swap');
+
+
+.nav-link{
+  color: #FFF !important;
+  font-family: Poppins;
+  font-style: normal;
+  line-height: normal;
+  transition: 0.4s color;
+}
+
+.nav-link:hover{ 
+  color:aqua !important;
+
+}
+
+.active{
+  border-bottom: 2px solid blue;
+  margin-top: 5px;
+}
+
+.logo{
+  font-family: poppins;
+  font-weight: 700;
+  background: #1BCFC9;
+  background: linear-gradient(to right, #1BCFC9 0%, #25CF4D 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

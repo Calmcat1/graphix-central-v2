@@ -1,13 +1,18 @@
 import './App.css';
-import {navbar} from './components/navbar.js';
+import {Navbar, MobileNavBar, Header, Content, Footer, CTA} from './components/imports'
 
 
 function App() {
   return (
     <div className="App">
-      {/* comment on this component */}
-      <navbar />
-      
+      <div className="maincontainer">
+        <Navbar />
+        <MobileNavBar />
+        <CTA />
+        <Content />
+        <Footer /> 
+      </div>
+    {/* bootstrap scripts */}
     </div>
   );
 }

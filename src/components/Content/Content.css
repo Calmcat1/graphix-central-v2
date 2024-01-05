@@ -1,0 +1,44 @@
+/* custom content text styling */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,100;1,700&family=Roboto:wght@100;400;700&display=swap');
+
+
+/* text-styling */
+.text-styling{
+  font-family: Poppins;
+  color: white;
+
+}
+
+/* styled border for jumbotron */
+.border-style-1{
+  border: 3px white solid;
+  border-radius: 14px;
+
+}
+
+/* button styling */
+
+.btn-custom{
+  background-color: transparent;
+  border: 3px white solid !important;
+  color: white !important;
+  border-radius: 5px;
+  transition: 0.4s background-color, 0.4s color;
+}
+
+.btn-custom:hover{
+  color: black !important;
+  background-color: white !important;
+ 
+}
+
+.btn-custom:active{
+  opacity: 0.6;
+}
+
+
+
+
+
