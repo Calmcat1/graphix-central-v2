@@ -1,7 +1,7 @@
 {
   "name": "graphix-central-v2",
   "version": "0.1.0",
-  "homepage": "https://calmcat1.github.io/graphix-central-v2",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
