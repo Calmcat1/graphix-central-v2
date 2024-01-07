@@ -13,7 +13,7 @@
 
 /* styled border for jumbotron */
 .border-style-1{
-  border: 3px white solid;
+ 
   border-radius: 14px;
 
 }
@@ -38,7 +38,15 @@
   opacity: 0.6;
 }
 
+/* image styling */
+
+.img-styling-1{
+  border-radius: 15px;
+}
 
 
 
 
+@media only screen and (max-width: 700px) {
+  
+}

@@ -8,10 +8,11 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  background: #1BCFC9;
-  background: linear-gradient(to right, #1BCFC9 0%, #25CF4D 100%);
+  background: #CFE7fA;
+  background: linear-gradient(to right, #CFE7fA 0%, #CFCFCF 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+
   
 
 }
@@ -19,5 +20,25 @@
 .text-styling{
   font-family: Poppins;
   color: white;
+
+}
+
+.m-extra-1{
+  margin-top: 9em;
+  margin-bottom: 9em;
+
+}
+
+@media only screen and (max-width:700px) {
+
+  .no-display-mobile{
+    display: none;
+  }
+
+  .m-extra-1{
+    margin-top: 17em;
+    margin-bottom: 27em;
+  
+  }
 
 }

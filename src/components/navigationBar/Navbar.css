@@ -23,8 +23,8 @@
 .logo{
   font-family: poppins;
   font-weight: 700;
-  background: #1BCFC9;
-  background: linear-gradient(to right, #1BCFC9 0%, #25CF4D 100%);
+  background: #CFE7fA;
+  background: linear-gradient(to right, #CFE7fA 0%, #CFCFCF 100%);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent
 }

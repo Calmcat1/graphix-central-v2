@@ -8,17 +8,14 @@ const Navbar = () => {
         <div class="container">
             <a class="navbar-brand" href="/home"><h4 class="logo">Graphixcentral.</h4></a>
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item ">
-                  <a class="nav-link" href="Solutions.html">Solutions</a>
+                  <a class="nav-link" href="/Solutions">Solutions</a>
               </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="Contact.html">Contact us</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="portfolio.html">Portfolio</a>
+                    <a class="nav-link" href="/Contact">Contact us</a>
                 </li>
             </ul>
         </div>

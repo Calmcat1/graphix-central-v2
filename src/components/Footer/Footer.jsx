@@ -9,9 +9,9 @@ const Footer = () => {
           <p class="text-dark">&copy; 2024 </p>
           <h4 class="logo">Graphixcentral.</h4>
           <nav class="nav justify-content-center">
-            <a class="nav-link" href="index.html">Home</a>
-            <a class="nav-link" href="solutions.html">Solutions</a>
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="/">Home</a>
+            <a class="nav-link" href="/Solutions">Solutions</a>
+            <a class="nav-link" href="/Contact">Contact</a>
           </nav>
         </div>
       </footer>

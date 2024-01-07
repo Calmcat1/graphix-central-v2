@@ -1,7 +1,13 @@
 body{
-  background-color: #0cbaba;
-  background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
-  
+  background-color:#ffc799;
+  background-image:
+  radial-gradient(at 89% 85%, hsla(340,86%,71%,1) 0px, transparent 50%),
+  radial-gradient(at 25% 13%, hsla(215,87%,67%,1) 0px, transparent 50%),
+  radial-gradient(at 28% 30%, hsla(331,83%,64%,1) 0px, transparent 50%),
+  radial-gradient(at 32% 14%, hsla(266,70%,70%,1) 0px, transparent 50%),
+  radial-gradient(at 25% 78%, hsla(19,72%,64%,1) 0px, transparent 50%),
+  radial-gradient(at 15% 96%, hsla(199,82%,70%,1) 0px, transparent 50%),
+  radial-gradient(at 91% 24%, hsla(257,79%,64%,1) 0px, transparent 50%);
 
 }
 

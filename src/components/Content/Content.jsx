@@ -1,15 +1,17 @@
 import React from 'react'
 import './Content.css'
+import barGraph from '../../Images/risingbargraph.jpg';
+import valueGraph from '../../Images/valueGraph1.jpg';
 
 const Content = () => {
   return (
     <div>
-      <div class="content">
+      <div class="content mt-5">
        <div class="container mt-4">
         <div class="row">
         
         <div class="col-md-5">
-          <img src="IMGS/valueGraph1.jpg" alt="Image" class="img-fluid"></img>
+          <img src={valueGraph} alt="Image" class="img-fluid img-styling-1"></img>
         </div>
 
 
@@ -19,7 +21,7 @@ const Content = () => {
            <h1 class="display-4 text-styling">Our Values</h1>
            <p class="lead text-styling">Teamwork, Resilience, responsibility, patience and perserverance</p>
            <hr class="my-4"></hr>
-           <a className="btn text-styling btn-custom"><b>Our Solutions &rarr;</b></a>
+           <a className="btn text-styling btn-custom" href="/Solutions"><b>Our Solutions &rarr;</b></a>
          </div>
        </div>
      </div>
@@ -34,13 +36,13 @@ const Content = () => {
        <h1 class="display-4 text-styling">Our Mission</h1>
        <p class="lead text-styling">To provide designs that make ideas come to life.</p>
        <hr class="my-4"></hr>
-       <a className="btn btn-custom"><b>Our Solutions &rarr;</b></a>
+       <a className="btn btn-custom" href="/Solutions"><b>Our Solutions &rarr;</b></a>
      </div>
     </div>
 
  
             <div class="col-md-5">
-              <img src="IMGS/risingbargraph.jpg" alt="Image" class="img-fluid"></img>
+              <img src={barGraph} alt="Image" class="img-fluid img-styling-1"></img>
             </div>
           </div>
         </div>

@@ -1,19 +1,16 @@
 import './App.css';
-import {Navbar, MobileNavBar, Header, Content, Footer, CTA} from './components/imports'
+import {Navbar,MobileNavBar,Footer} from './components/imports'
+import Main from './main'
 
 
 function App() {
   return (
-    <div className="App">
-      <div className="maincontainer">
-        <Navbar />
-        <MobileNavBar />
-        <CTA />
-        <Content />
-        <Footer /> 
-      </div>
-    {/* bootstrap scripts */}
-    </div>
+    <div>
+      <Navbar />
+      <MobileNavBar />
+      <Main />
+      <Footer />
+   </div>
   );
 }
 
