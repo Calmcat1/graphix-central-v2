@@ -1,7 +1,10 @@
 import React from 'react'
 import './ContentSolution.css'
-import barGraph from '../../Images/risingbargraph.jpg';
-import valueGraph from '../../Images/valueGraph1.jpg';
+import design from '../../Images/design1.jpg';
+import graphix from '../../Images/graphix1.jpg';
+import logo from '../../Images/logoImg1.jpg'
+
+
 
 const ContentSolution = () => {
   return (
@@ -11,7 +14,7 @@ const ContentSolution = () => {
         <div class="row">
         
         <div class="col-md-5">
-          <img src={valueGraph} alt="Image" class="img-fluid img-styling-1"></img>
+          <img src={logo} alt="Image" class="img-fluid img-styling-1"></img>
         </div>
 
 
@@ -42,14 +45,14 @@ const ContentSolution = () => {
 
  
             <div class="col-md-5">
-              <img src={barGraph} alt="Image" class="img-fluid img-styling-1"></img>
+              <img src={graphix} alt="Image" class="img-fluid img-styling-1"></img>
             </div>
 
 
 
 
             <div class="col-md-5">
-          <img src={valueGraph} alt="Image" class="img-fluid img-styling-1"></img>
+          <img src={design} alt="Image" class="img-fluid img-styling-1"></img>
         </div>
 
 
