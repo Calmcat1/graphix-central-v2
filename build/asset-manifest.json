@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dec0430b.css",
+    "main.js": "/static/js/main.906430b3.js",
+    "static/js/787.334f0dbb.chunk.js": "/static/js/787.334f0dbb.chunk.js",
+    "static/media/risingbargraph.jpg": "/static/media/risingbargraph.f5f713c32ec900a97e7a.jpg",
+    "static/media/valueGraph1.jpg": "/static/media/valueGraph1.52bd514852b36aa14eaa.jpg",
+    "index.html": "/index.html",
+    "main.dec0430b.css.map": "/static/css/main.dec0430b.css.map",
+    "main.906430b3.js.map": "/static/js/main.906430b3.js.map",
+    "787.334f0dbb.chunk.js.map": "/static/js/787.334f0dbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec0430b.css",
+    "static/js/main.906430b3.js"
+  ]
+}
