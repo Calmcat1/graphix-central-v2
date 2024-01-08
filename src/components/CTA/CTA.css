@@ -8,6 +8,8 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  padding-left: 35px;
+  padding-right: 35px;
   background: #CFE7fA;
   background: linear-gradient(to right, #CFE7fA 0%, #CFCFCF 100%);
   -webkit-background-clip: text;
