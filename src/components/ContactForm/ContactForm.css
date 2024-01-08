@@ -8,3 +8,7 @@ input::placeholder, textarea::placeholder{
   color: white !important;
 }
 
+.btn-custom{
+  font-family: poppins !important;
+  font-weight: 700 !important;
+}
