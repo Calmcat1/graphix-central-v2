@@ -6,6 +6,7 @@
   color: #FFF !important;
   font-family: Poppins;
   font-style: normal;
+  font-weight: 700 !important;
   line-height: normal;
   transition: 0.4s color;
 }
