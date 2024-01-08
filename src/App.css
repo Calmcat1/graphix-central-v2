@@ -11,3 +11,16 @@ body{
 
 }
 
+@media only screen and (max-width: 700px) {
+  body {
+    background-image:
+      radial-gradient(at 89% 85%, hsla(340, 86%, 71%, 0.7) 0px, transparent 50%),
+      radial-gradient(at 25% 13%, hsla(215, 87%, 67%, 0.7) 0px, transparent 50%),
+      radial-gradient(at 28% 30%, hsla(331, 83%, 64%, 0.7) 0px, transparent 50%),
+      radial-gradient(at 32% 14%, hsla(266, 70%, 70%, 0.7) 0px, transparent 50%),
+      radial-gradient(at 25% 78%, hsla(19, 72%, 64%, 0.7) 0px, transparent 50%),
+      radial-gradient(at 15% 96%, hsla(199, 82%, 70%, 0.7) 0px, transparent 50%),
+      radial-gradient(at 91% 24%, hsla(257, 79%, 64%, 0.7) 0px, transparent 50%);
+  
+  }
+}
