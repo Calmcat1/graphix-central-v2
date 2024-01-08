@@ -31,7 +31,10 @@
 
 @media only screen and (max-width:700px) {
 
-
+  .no-display-mobile{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
 
   .m-extra-1{
     margin-top: 17em;
