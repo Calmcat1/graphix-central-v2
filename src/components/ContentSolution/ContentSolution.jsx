@@ -30,11 +30,12 @@ const ContentSolution = () => {
        </div>
       </div>
 
+      <div class="img-container-1">
     
         <div class="container mt-4">
         <div class="row">
 
-        <div class="col-xl-7">
+        <div class="col-xl-7 mobile-text">
          <div class="jumbotron text-white p-5 m-4 border-style-1">
            <h1 class="display-4 text-styling">Graphics</h1>
            <p class="lead text-styling">Why not just Upgrade it all.</p>
@@ -45,10 +46,10 @@ const ContentSolution = () => {
 
  
             <div class="col-md-5">
-              <img src={graphix} alt="Image" class="img-fluid img-styling-1"></img>
+              <img src={graphix} alt="Image" class="img-fluid img-styling-1 mobile-image"></img>
             </div>
 
-
+      </div>
 
 
             <div class="col-md-5">

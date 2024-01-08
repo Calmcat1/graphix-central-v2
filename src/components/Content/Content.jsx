@@ -27,11 +27,11 @@ const Content = () => {
      </div>
     </div>
 
-    
+   <div className="img-container-1">
     <div class="container mt-4">
     <div class="row">
    
-    <div class="col-xl-7">
+    <div class="col-xl-7 mobile-text">
      <div class="jumbotron text-white p-5 m-4 border-style-1">
        <h1 class="display-4 text-styling">Our Mission</h1>
        <p class="lead text-styling">To provide designs that make ideas come to life.</p>
@@ -42,12 +42,13 @@ const Content = () => {
 
  
             <div class="col-md-5">
-              <img src={barGraph} alt="Image" class="img-fluid img-styling-1"></img>
+              <img src={barGraph} alt="Image" class="img-fluid img-styling-1 mobile-img"></img>
             </div>
           </div>
         </div>
       </div>
     </div>
+  </div>
   )
 }
 
