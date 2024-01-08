@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-lg navbar-light custom-white-bg-color-black-border d-none d-lg-block mb-5">
         <div class="container">
-            <a class="navbar-brand" href="/home"><h4 class="logo">Graphixcentral.</h4></a>
+            <a class="navbar-brand" href="/"><h4 class="logo">Graphixcentral.</h4></a>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="/">Home</a>
