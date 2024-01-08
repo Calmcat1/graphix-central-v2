@@ -3,3 +3,8 @@
   border: 3px white solid !important;
 }
 
+input::placeholder, textarea::placeholder{
+  font-family: poppins;
+  color: white !important;
+}
+
