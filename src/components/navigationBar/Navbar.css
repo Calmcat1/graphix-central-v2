@@ -29,3 +29,12 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent
 }
+
+
+.logo:hover{
+  opacity: 0.7;
+}
+
+.logo:active{
+  opacity: 0.4;
+}

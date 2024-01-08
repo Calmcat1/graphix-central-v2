@@ -33,6 +33,14 @@
 
 .custom-links{
   color: purple;
+} 
+
+.custom-links:hover{
+  opacity: 0.8;
+}
+
+.custom-links:active{
+  opacity: 0.4;
 }
 
 @media only screen and (max-width:700px) {
