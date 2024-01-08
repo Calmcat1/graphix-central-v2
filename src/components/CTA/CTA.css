@@ -31,6 +31,10 @@
 
 }
 
+.custom-links{
+  color: purple;
+}
+
 @media only screen and (max-width:700px) {
 
   .no-display-mobile{
