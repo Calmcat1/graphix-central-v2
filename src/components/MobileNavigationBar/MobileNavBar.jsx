@@ -12,16 +12,13 @@ const MobileNavBar = () => {
             <div class="collapse navbar-collapse" id="mobileNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Solutions.html">Packages</a>
+                        <a class="nav-link" href="/Solutions">Packages</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Contact.html">Contact Us</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="portfolio.html">Portfolio</a>
+                        <a class="nav-link" href="/Contact">Contact Us</a>
                     </li>
                 </ul>
             </div>
